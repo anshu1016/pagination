@@ -1,6 +1,6 @@
 # Pagination 
-### live (here)[https://as-paginations.netlify.app/]
-#img(here)[<img width="938" alt="image" src="https://github.com/anshu1016/pagination/assets/69161719/213fb17c-5bf1-4331-b752-212f39ee04c9">]
+### live (here](https://as-paginations.netlify.app/)
+<img width="938" alt="image" src="https://github.com/anshu1016/pagination/assets/69161719/213fb17c-5bf1-4331-b752-212f39ee04c9">
 
 
 
